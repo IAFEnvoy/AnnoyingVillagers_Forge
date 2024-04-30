@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:saplings"
+    },
+    "1": {
+      "item": "minecraft:oak_sapling"
+    },
+    "2": {
+      "item": "minecraft:spruce_sapling"
+    },
+    "3": {
+      "item": "minecraft:sugar_cane"
+    },
+    "4": {
+      "item": "minecraft:ender_eye"
+    },
+    "5": {
+      "item": "minecraft:birch_sapling"
+    },
+    "6": {
+      "item": "minecraft:dark_oak_sapling"
+    },
+    "7": {
+      "item": "minecraft:acacia_sapling"
+    },
+    "8": {
+      "item": "minecraft:jungle_sapling"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:ffys",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "annoying_villagersbychentu:custom/sr",
+  "textures": {
+    "1": "annoying_villagersbychentu:blocks/srb",
+    "3": "annoying_villagersbychentu:blocks/sr2",
+    "4": "annoying_villagersbychentu:blocks/sr1",
+    "5": "annoying_villagersbychentu:blocks/ptail",
+    "particle": "annoying_villagersbychentu:items/srb"
+  }
+}

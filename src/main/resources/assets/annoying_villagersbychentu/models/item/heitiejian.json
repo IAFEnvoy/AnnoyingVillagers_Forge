@@ -1,0 +1,7 @@
+{
+  "parent": "annoying_villagersbychentu:custom/hei_ke_jian_",
+  "textures": {
+    "0": "annoying_villagersbychentu:blocks/hei_ke_jian_",
+    "particle": "annoying_villagersbychentu:items/hei_ke_jian_"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "annoying_villagersbychentu:items/an_he_jin_li_"
+  }
+}

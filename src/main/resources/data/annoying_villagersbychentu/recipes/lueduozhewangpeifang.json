@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "annoying_villagersbychentu:llbstz_helmet"
+    },
+    "2": {
+      "item": "minecraft:redstone_wire"
+    },
+    "3": {
+      "item": "minecraft:diamond"
+    },
+    "4": {
+      "item": "annoying_villagersbychentu:hhongbaoshi"
+    },
+    "5": {
+      "item": "minecraft:emerald"
+    },
+    "6": {
+      "item": "minecraft:iron_axe"
+    },
+    "7": {
+      "item": "minecraft:enchanted_book"
+    },
+    "8": {
+      "item": "minecraft:diamond_chestplate"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:zhaohuanlueduozhewang",
+    "count": 1
+  }
+}

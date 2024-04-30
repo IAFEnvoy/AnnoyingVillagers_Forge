@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "annoying_villagersbychentu:blocks/obsidian_weaponss",
+    "up": "annoying_villagersbychentu:blocks/obsidian_weaponss",
+    "north": "annoying_villagersbychentu:blocks/obsidian_weaponss",
+    "east": "annoying_villagersbychentu:blocks/obsidian_weaponss",
+    "south": "annoying_villagersbychentu:blocks/obsidian_weaponss",
+    "west": "annoying_villagersbychentu:blocks/obsidian_weaponss",
+    "particle": "annoying_villagersbychentu:blocks/obsidian_weaponss"
+  }
+}

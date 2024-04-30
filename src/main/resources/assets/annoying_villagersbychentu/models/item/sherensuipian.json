@@ -1,0 +1,7 @@
+{
+  "parent": "annoying_villagersbychentu:custom/sherensuipian",
+  "textures": {
+    "0": "annoying_villagersbychentu:blocks/sherensuipian",
+    "particle": "annoying_villagersbychentu:items/sherensuipian"
+  }
+}

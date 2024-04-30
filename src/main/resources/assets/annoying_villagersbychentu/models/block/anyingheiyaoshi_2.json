@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "annoying_villagersbychentu:blocks/hys",
+    "up": "annoying_villagersbychentu:blocks/hys",
+    "north": "annoying_villagersbychentu:blocks/hys",
+    "east": "annoying_villagersbychentu:blocks/hys",
+    "south": "annoying_villagersbychentu:blocks/hys",
+    "west": "annoying_villagersbychentu:blocks/hys",
+    "particle": "annoying_villagersbychentu:blocks/hys"
+  }
+}

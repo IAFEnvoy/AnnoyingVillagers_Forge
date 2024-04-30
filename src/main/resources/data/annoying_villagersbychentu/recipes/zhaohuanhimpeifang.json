@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:zombie_head"
+    },
+    "3": {
+      "item": "minecraft:wither_skeleton_wall_skull"
+    },
+    "4": {
+      "item": "annoying_villagersbychentu:cchunduzuanshi"
+    },
+    "5": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "7": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:zhaohuanhimfenshen",
+    "count": 1
+  }
+}

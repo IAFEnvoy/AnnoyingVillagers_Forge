@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "annoying_villagersbychentu:llbstz_boots"
+  },
+  "addition": {
+    "item": "annoying_villagersbychentu:aahjd"
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:ananhejintao_boots"
+  }
+}

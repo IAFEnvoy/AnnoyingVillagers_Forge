@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:ghast_tear"
+    },
+    "1": {
+      "item": "annoying_villagersbychentu:llys"
+    },
+    "2": {
+      "item": "minecraft:ghast_tear"
+    },
+    "3": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "4": {
+      "item": "annoying_villagersbychentu:hhuoyuansuhejinwandao"
+    },
+    "5": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "6": {
+      "item": "minecraft:ghast_tear"
+    },
+    "7": {
+      "item": "minecraft:nether_star"
+    },
+    "8": {
+      "item": "minecraft:ghast_tear"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:bbianzhonghuoyuansuhejinwandao",
+    "count": 1
+  }
+}

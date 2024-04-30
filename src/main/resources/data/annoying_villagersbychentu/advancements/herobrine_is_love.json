@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "annoying_villagersbychentu:join_herobrine_item"
+    },
+    "title": {
+      "translate": "advancements.herobrine_is_love.title"
+    },
+    "description": {
+      "translate": "advancements.herobrine_is_love.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "herobrine_is_love": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  }
+}

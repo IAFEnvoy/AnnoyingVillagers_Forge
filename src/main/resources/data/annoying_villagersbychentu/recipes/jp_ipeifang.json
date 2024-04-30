@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:dirt"
+    },
+    "1": {
+      "tag": "minecraft:dirt"
+    },
+    "2": {
+      "item": "minecraft:dirt"
+    },
+    "3": {
+      "tag": "minecraft:dirt"
+    },
+    "4": {
+      "tag": "minecraft:dirt"
+    },
+    "5": {
+      "tag": "minecraft:dirt"
+    },
+    "6": {
+      "tag": "minecraft:dirt"
+    },
+    "7": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:join_player_item",
+    "count": 1
+  }
+}

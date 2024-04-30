@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherite_block"
+    },
+    "1": {
+      "item": "annoying_villagersbychentu:zzibaoshi"
+    },
+    "2": {
+      "item": "minecraft:netherite_block"
+    },
+    "3": {
+      "item": "annoying_villagersbychentu:zzibaoshi"
+    },
+    "4": {
+      "item": "annoying_villagersbychentu:hhjzf"
+    },
+    "5": {
+      "item": "annoying_villagersbychentu:zzibaoshi"
+    },
+    "6": {
+      "item": "minecraft:netherite_block"
+    },
+    "7": {
+      "item": "annoying_villagersbychentu:zzibaoshi"
+    },
+    "8": {
+      "item": "minecraft:netherite_block"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:hhejinzhanfuv_2",
+    "count": 1
+  }
+}

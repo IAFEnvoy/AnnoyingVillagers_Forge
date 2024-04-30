@@ -1,0 +1,7 @@
+{
+  "parent": "annoying_villagersbychentu:custom/zuan_shi_chang_jian_",
+  "textures": {
+    "0": "annoying_villagersbychentu:blocks/zuan_shi_chang_jian_",
+    "particle": "annoying_villagersbychentu:items/zuan_shi_chang_jian_"
+  }
+}

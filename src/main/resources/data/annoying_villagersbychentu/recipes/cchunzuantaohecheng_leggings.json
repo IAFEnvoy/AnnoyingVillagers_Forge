@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "annoying_villagersbychentu:cchunduzuanshi"
+    },
+    "1": {
+      "item": "annoying_villagersbychentu:cchunduzuanshi"
+    },
+    "2": {
+      "item": "annoying_villagersbychentu:cchunduzuanshi"
+    },
+    "3": {
+      "item": "annoying_villagersbychentu:cchunduzuanshi"
+    },
+    "5": {
+      "item": "annoying_villagersbychentu:cchunduzuanshi"
+    },
+    "6": {
+      "item": "annoying_villagersbychentu:cchunduzuanshi"
+    },
+    "8": {
+      "item": "annoying_villagersbychentu:cchunduzuanshi"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:cchunzuantao_leggings",
+    "count": 1
+  }
+}

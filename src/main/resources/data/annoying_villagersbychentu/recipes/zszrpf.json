@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "annoying_villagersbychentu:dan_shou_zhan_shen_zhi_ren"
+    }
+  ],
+  "result": {
+    "item": "annoying_villagersbychentu:zhan_shen_zhi_ren",
+    "count": 1
+  }
+}

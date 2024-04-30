@@ -1,0 +1,7 @@
+{
+  "parent": "annoying_villagersbychentu:custom/lu_bao_shi_dun_",
+  "textures": {
+    "0": "annoying_villagersbychentu:blocks/lu_bao_shi_dun_",
+    "particle": "annoying_villagersbychentu:items/lu_bao_shi_dun_"
+  }
+}

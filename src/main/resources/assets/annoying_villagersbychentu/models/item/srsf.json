@@ -1,0 +1,6 @@
+{
+  "parent": "annoying_villagersbychentu:item/greatsword",
+  "textures": {
+    "layer0": "annoying_villagersbychentu:items/shihunsherenshifang"
+  }
+}

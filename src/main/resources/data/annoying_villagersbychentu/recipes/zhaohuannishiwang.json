@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:zombie_head"
+    },
+    "3": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "4": {
+      "item": "annoying_villagersbychentu:cchunzuantao_chestplate"
+    },
+    "5": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "7": {
+      "item": "minecraft:prismarine_crystals"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:zhaohuangnishiwangde",
+    "count": 1
+  }
+}

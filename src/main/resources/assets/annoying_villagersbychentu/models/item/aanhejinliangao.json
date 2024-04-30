@@ -1,0 +1,7 @@
+{
+  "parent": "annoying_villagersbychentu:custom/hao_zi_",
+  "textures": {
+    "0": "annoying_villagersbychentu:blocks/an_he_jin_lian_hao_",
+    "particle": "annoying_villagersbychentu:items/an_he_jin_lian_hao_"
+  }
+}

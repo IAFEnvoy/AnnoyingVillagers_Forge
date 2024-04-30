@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "annoying_villagersbychentu:aahjl"
+    },
+    "1": {
+      "item": "annoying_villagersbychentu:aahjl"
+    },
+    "2": {
+      "item": "annoying_villagersbychentu:aahjl"
+    },
+    "3": {
+      "item": "annoying_villagersbychentu:aahjl"
+    },
+    "4": {
+      "item": "annoying_villagersbychentu:aahjl"
+    },
+    "5": {
+      "item": "annoying_villagersbychentu:aahjl"
+    },
+    "6": {
+      "item": "annoying_villagersbychentu:aahjl"
+    },
+    "7": {
+      "item": "annoying_villagersbychentu:aahjl"
+    },
+    "8": {
+      "item": "annoying_villagersbychentu:aahjl"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:aahjd",
+    "count": 1
+  }
+}

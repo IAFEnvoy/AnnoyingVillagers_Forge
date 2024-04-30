@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:obsidian"
+    },
+    "1": {
+      "item": "minecraft:diamond_helmet"
+    },
+    "2": {
+      "item": "minecraft:obsidian"
+    },
+    "3": {
+      "item": "minecraft:wither_skeleton_wall_skull"
+    },
+    "4": {
+      "item": "minecraft:diamond_chestplate"
+    },
+    "5": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "6": {
+      "item": "annoying_villagersbychentu:zzibaoshi"
+    },
+    "7": {
+      "item": "minecraft:obsidian"
+    },
+    "8": {
+      "item": "minecraft:zombie_head"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:zhaohuanhimzuanjiafenshen",
+    "count": 1
+  }
+}

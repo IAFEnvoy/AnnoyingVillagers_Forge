@@ -1,0 +1,7 @@
+{
+  "parent": "annoying_villagersbychentu:custom/herobrine_eyes",
+  "textures": {
+    "0": "annoying_villagersbychentu:blocks/herobrine_eyes",
+    "particle": "annoying_villagersbychentu:items/herobrine_eyes"
+  }
+}

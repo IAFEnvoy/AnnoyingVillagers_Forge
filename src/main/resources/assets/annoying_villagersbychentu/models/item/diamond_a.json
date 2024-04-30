@@ -1,0 +1,7 @@
+{
+  "parent": "annoying_villagersbychentu:custom/fu_tou_mo_xing_",
+  "textures": {
+    "0": "annoying_villagersbychentu:items/fu_",
+    "particle": "annoying_villagersbychentu:items/fu_"
+  }
+}

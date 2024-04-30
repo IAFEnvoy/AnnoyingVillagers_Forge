@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:diamond"
+    },
+    "2": {
+      "item": "minecraft:diamond_sword"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:zuan_shi_xi_yang_jian",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "annoying_villagersbychentu:zzibaoshi"
+    },
+    "1": {
+      "item": "annoying_villagersbychentu:zzibaoshi"
+    },
+    "2": {
+      "item": "annoying_villagersbychentu:zuan_shi_chang_jian"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:zizibaoshichangjian",
+    "count": 1
+  }
+}

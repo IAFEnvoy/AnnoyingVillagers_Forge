@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:planks"
+    },
+    "1": {
+      "tag": "minecraft:planks"
+    },
+    "3": {
+      "tag": "minecraft:planks"
+    },
+    "4": {
+      "item": "minecraft:wooden_axe"
+    },
+    "5": {
+      "tag": "minecraft:planks"
+    },
+    "7": {
+      "item": "minecraft:wooden_sword"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:mmuzhanfuv_2",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "annoying_villagersbychentu:custom/c_o_big",
+  "textures": {
+    "1": "annoying_villagersbychentu:blocks/crying_obsidian",
+    "particle": "annoying_villagersbychentu:items/crying_obsidian"
+  }
+}

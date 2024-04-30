@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "item": "annoying_villagersbychentu:baozhaxiaodao"
+    },
+    "1": {
+      "item": "minecraft:zombie_head"
+    },
+    "2": {
+      "item": "annoying_villagersbychentu:zuan_shi_chang_jian"
+    },
+    "3": {
+      "item": "annoying_villagersbychentu:zzibaoshi"
+    },
+    "4": {
+      "item": "annoying_villagersbychentu:gravecuirass_chestplate"
+    },
+    "5": {
+      "item": "annoying_villagersbychentu:aahjd"
+    },
+    "7": {
+      "item": "minecraft:pink_bed"
+    },
+    "8": {
+      "item": "annoying_villagersbychentu:zuan_shi_chang_jian"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:zhaohuangrave",
+    "count": 1
+  }
+}

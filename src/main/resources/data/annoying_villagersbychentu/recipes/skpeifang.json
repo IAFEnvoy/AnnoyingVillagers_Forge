@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "minecraft:lead"
+    },
+    "3": {
+      "item": "minecraft:obsidian"
+    },
+    "4": {
+      "item": "minecraft:obsidian"
+    },
+    "5": {
+      "item": "minecraft:coal"
+    },
+    "7": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:fulubuhuoqi",
+    "count": 1
+  }
+}

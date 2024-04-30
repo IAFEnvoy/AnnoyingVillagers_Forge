@@ -1,0 +1,7 @@
+{
+  "parent": "annoying_villagersbychentu:custom/wei_da_de_jian_",
+  "textures": {
+    "0": "annoying_villagersbychentu:blocks/wei_da_de_jian_",
+    "particle": "annoying_villagersbychentu:items/wei_da_de_jian_"
+  }
+}

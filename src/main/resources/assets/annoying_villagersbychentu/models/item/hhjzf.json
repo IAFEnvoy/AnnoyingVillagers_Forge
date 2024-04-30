@@ -1,0 +1,7 @@
+{
+  "parent": "annoying_villagersbychentu:custom/he_jin_zhan_fu_",
+  "textures": {
+    "0": "annoying_villagersbychentu:blocks/he_jin_zhan_fu_",
+    "particle": "annoying_villagersbychentu:items/he_jin_zhan_fu_"
+  }
+}

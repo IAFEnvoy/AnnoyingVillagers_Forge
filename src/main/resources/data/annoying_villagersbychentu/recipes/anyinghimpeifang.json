@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:black_dye"
+    },
+    "1": {
+      "item": "minecraft:zombie_head"
+    },
+    "2": {
+      "item": "minecraft:gray_concrete"
+    },
+    "3": {
+      "item": "minecraft:coal_block"
+    },
+    "4": {
+      "item": "minecraft:obsidian"
+    },
+    "5": {
+      "item": "minecraft:ancient_debris"
+    },
+    "6": {
+      "item": "minecraft:obsidian"
+    },
+    "7": {
+      "item": "minecraft:netherite_block"
+    },
+    "8": {
+      "item": "minecraft:smithing_table"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:zhaohuan_anyingfenshen",
+    "count": 1
+  }
+}

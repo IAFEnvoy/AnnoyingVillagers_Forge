@@ -1,0 +1,7 @@
+{
+  "parent": "annoying_villagersbychentu:custom/lue_wang_tou_kui_",
+  "textures": {
+    "1": "annoying_villagersbychentu:blocks/lue_wang_tou_kui_xiong_jia_",
+    "particle": "annoying_villagersbychentu:items/lue_wang_tou_kui_xiong_jia_"
+  }
+}

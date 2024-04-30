@@ -1,0 +1,101 @@
+package pugilist_steve.mod.annoying_villagersbychentu.init;
+
+import net.minecraft.client.renderer.entity.ThrownItemRenderer;
+import net.minecraft.world.entity.EntityType;
+import net.minecraftforge.api.distmarker.Dist;
+import net.minecraftforge.client.event.EntityRenderersEvent;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.fml.common.Mod;
+import pugilist_steve.mod.annoying_villagersbychentu.client.renderer.*;
+
+@Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD, value = {Dist.CLIENT})
+
+public class AnnoyingVillagersbychentuModEntityRenderers {
+    @SubscribeEvent
+    public static void registerEntityRenderers(EntityRenderersEvent.RegisterRenderers event) {
+        event.registerEntityRenderer((EntityType) AnnoyingVillagersbychentuModEntities.BISHOU.get(), ThrownItemRenderer::new);
+        event.registerEntityRenderer((EntityType) AnnoyingVillagersbychentuModEntities.DIAMOND_SHIELD.get(), ThrownItemRenderer::new);
+        event.registerEntityRenderer((EntityType) AnnoyingVillagersbychentuModEntities.ZZIDAN.get(), ThrownItemRenderer::new);
+        event.registerEntityRenderer((EntityType) AnnoyingVillagersbychentuModEntities.FUMOMOYINGZHENZHU.get(), ThrownItemRenderer::new);
+        event.registerEntityRenderer((EntityType) AnnoyingVillagersbychentuModEntities.HEISEZHENZHU.get(), ThrownItemRenderer::new);
+        event.registerEntityRenderer((EntityType) AnnoyingVillagersbychentuModEntities.FAGUANGDEZHENZHU.get(), ThrownItemRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.CUN_MIN_ZHEN_CHA_BING.get(), CunMinZhenChaBingRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.CCZDZ.get(), CczdzRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.LAN_CUN_QI.get(), LanCunQiRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.LU_CUN_QI.get(), LuCunQiRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.HONG_CUN_QI.get(), HongCunQiRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.ZI_CUN_QI.get(), ZiCunQiRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.CUN_ZHEN_FU_LU.get(), CunZhenFuLuRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.HONG_CUN_QI_FU_LU.get(), HongCunQiFuLuRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.LAN_CUN_QI_FU_LU.get(), LanCunQiFuLuRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.ZI_CUN_QI_FU_LU.get(), ZiCunQiFuLuRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.GRAVE.get(), GraveRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.GRAVE_2.get(), Grave2Renderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.JIANBINGGUOZI.get(), JianbingguoziRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.WAN_JIA_1.get(), WanJia1Renderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.STEVE.get(), SteveRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.STEVE_2.get(), Steve2Renderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.FENNUDESHIDIFU.get(), FennudeshidifuRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.KE_LI_SI.get(), KeLiSiRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.GE_LEI_GE.get(), GeLeiGeRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.MRCOLDER.get(), MrcolderRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.MRCOLDER_2.get(), Mrcolder2Renderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.ENCHANTER.get(), EnchanterRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.ALEX.get(), AlexRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.ALEX_VILLAGER.get(), AlexVillagerRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.MR_MUDGE_MONKEY.get(), MrMudgeMonkeyRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.DI_JIHEROBRINE.get(), DiJiherobrineRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.DIJIYINFENSHEN.get(), DijiyinfenshenRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.HEROBRINEFENSHEN.get(), HerobrinefenshenRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.HEROBRINE_2.get(), Herobrine2Renderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.HEROBRINE_3.get(), Herobrine3Renderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.ANYINGHIMFENSHEN.get(), AnyinghimfenshenRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.HEROBRINE_7.get(), Herobrine7Renderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.HB_GAO_JI_FEN_SHEN.get(), HbGaoJiFenShenRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.DARK_HEROBRINE.get(), DarkHerobrineRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.GAOJIHEROBRINE.get(), GaojiherobrineRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.LIANYINGFENSHENG.get(), LianyingfenshengRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.SHERENHEROBRINE.get(), SherenherobrineRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.YING_CHUI_HEROBRINE.get(), YingChuiHerobrineRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.BLUE_DEMON.get(), BlueDemonRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.NISHIDIERJIE.get(), NishidierjieRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.LING_ZHI.get(), LingZhiRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.SHI_TI_303.get(), ShiTi303Renderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.SHITI_303FENSHEN.get(), Shiti303fenshenRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.ZAI_E_ZHI_WANG.get(), ZaiEZhiWangRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.ZAIEZHIWANG_2.get(), Zaiezhiwang2Renderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.HONGYIZOMBIE.get(), HongyizombieRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.BEI_GAN_RAN_JIAN_BING_GUO_ZI.get(), BeiGanRanJianBingGuoZiRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.BEIGANRANDEKELISI.get(), BeiganrandekelisiRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.BBQ.get(), BbqRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.JIEMO.get(), JiemoRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.HEIYAOSHITIEKUILEI.get(), HeiyaoshitiekuileiRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.LANMEIKUILEI.get(), LanmeikuileiRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.HUOYANTIEKUILEI.get(), HuoyantiekuileiRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.HONGKUILEI.get(), HongkuileiRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.HEJINZHULIN.get(), HejinzhulinRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.ZIBAOKUILEI.get(), ZibaokuileiRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.COW.get(), CowRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.PIG.get(), PigRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.STEVE_DEAD.get(), SteveDeadRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.GRAVEDEAD.get(), GravedeadRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.ALEXDEAD.get(), AlexdeadRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.MRCOLDERDEAD.get(), MrcolderdeadRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.NULL_1.get(), Null1Renderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.NULL_2.get(), Null2Renderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.NULL_3.get(), Null3Renderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.NULL_4.get(), Null4Renderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.NULL_6.get(), Null6Renderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.LVCUNQIFULU.get(), LvcunqifuluRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.BBD.get(), BbdRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.LUEDUOZHEWANGDEMA.get(), MaRenderer::new);
+        event.registerEntityRenderer((EntityType) AnnoyingVillagersbychentuModEntities.FULUBUHUOQI.get(), ThrownItemRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.BLUEDEMONTRIDENT.get(), BluedemontridentRenderer::new);
+        event.registerEntityRenderer((EntityType) AnnoyingVillagersbychentuModEntities.YINSHEN.get(), ThrownItemRenderer::new);
+        event.registerEntityRenderer((EntityType) AnnoyingVillagersbychentuModEntities.HEROBRINEJIYAN.get(), ThrownItemRenderer::new);
+        event.registerEntityRenderer((EntityType) AnnoyingVillagersbychentuModEntities.BAOZHABISHOU.get(), ThrownItemRenderer::new);
+        event.registerEntityRenderer((EntityType) AnnoyingVillagersbychentuModEntities.ZHIZHUWANG.get(), ThrownItemRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.DEATH_SHEREN_HEROBRINE.get(), DeathSherenHerobrineRenderer::new);
+        event.registerEntityRenderer(AnnoyingVillagersbychentuModEntities.B_TRIDENT.get(), BTridentRenderer::new);
+    }
+}

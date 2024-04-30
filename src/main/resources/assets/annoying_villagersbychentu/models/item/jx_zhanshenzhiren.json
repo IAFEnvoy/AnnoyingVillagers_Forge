@@ -1,0 +1,7 @@
+{
+  "parent": "annoying_villagersbychentu:custom/zhan_shen_zhi_ren_",
+  "textures": {
+    "0": "annoying_villagersbychentu:blocks/jxzhanshenzhiren",
+    "particle": "annoying_villagersbychentu:items/jxzhanshenzhiren"
+  }
+}

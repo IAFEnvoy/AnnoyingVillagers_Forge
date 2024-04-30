@@ -1,0 +1,39 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "annoying_villagersbychentu:enchaned_diamond"
+    },
+    "title": {
+      "translate": "advancements.chunduzuanshichengjiu.title"
+    },
+    "description": {
+      "translate": "advancements.chunduzuanshichengjiu.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "chunduzuanshichengjiu": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "annoying_villagersbychentu:enchaned_diamond"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 20
+  }
+}

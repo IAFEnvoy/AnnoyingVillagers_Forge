@@ -1,0 +1,6 @@
+{
+  "parent": "annoying_villagersbychentu:custom/9",
+  "textures": {
+    "particle": "annoying_villagersbychentu:items/heiyaoshikuileizhiyan"
+  }
+}

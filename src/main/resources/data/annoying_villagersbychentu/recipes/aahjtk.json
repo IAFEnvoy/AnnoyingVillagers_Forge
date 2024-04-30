@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "annoying_villagersbychentu:llbstz_helmet"
+  },
+  "addition": {
+    "item": "annoying_villagersbychentu:aahjd"
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:ananhejintao_helmet"
+  }
+}

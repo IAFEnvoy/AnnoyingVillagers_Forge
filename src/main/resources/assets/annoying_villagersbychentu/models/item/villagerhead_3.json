@@ -1,0 +1,9 @@
+{
+  "parent": "annoying_villagersbychentu:custom/villagerhead3",
+  "textures": {
+    "1": "annoying_villagersbychentu:blocks/villagerhead2",
+    "2": "annoying_villagersbychentu:blocks/villagerhead3",
+    "missing": "annoying_villagersbychentu:blocks/villagerhead2",
+    "particle": "annoying_villagersbychentu:items/villagerhead3"
+  }
+}

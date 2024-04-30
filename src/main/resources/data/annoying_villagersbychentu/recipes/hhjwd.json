@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 ",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "1": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "2": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "4": {
+      "item": "annoying_villagersbychentu:hhejinduandao"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:hhejinwandao",
+    "count": 1
+  }
+}

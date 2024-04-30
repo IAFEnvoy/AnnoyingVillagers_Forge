@@ -1,0 +1,7 @@
+{
+  "parent": "annoying_villagersbychentu:custom/cge_po_lan_jian_dun_",
+  "textures": {
+    "0": "annoying_villagersbychentu:blocks/cge_po_lan_jian_dun_",
+    "particle": "annoying_villagersbychentu:items/cge_po_lan_jian_dun_"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:zombie_head"
+    },
+    "2": {
+      "item": "minecraft:ender_pearl"
+    },
+    "3": {
+      "item": "minecraft:wither_skeleton_wall_skull"
+    },
+    "4": {
+      "item": "annoying_villagersbychentu:cchunduzuanshi"
+    },
+    "5": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "6": {
+      "item": "minecraft:name_tag"
+    },
+    "7": {
+      "item": "minecraft:obsidian"
+    },
+    "8": {
+      "item": "minecraft:shield"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:zhaohuanhim_7fenshen",
+    "count": 1
+  }
+}

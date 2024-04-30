@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "annoying_villagersbychentu:hhongbaoshi"
+    },
+    "1": {
+      "item": "annoying_villagersbychentu:hhongbaoshi"
+    },
+    "2": {
+      "item": "annoying_villagersbychentu:hhongbaoshi"
+    },
+    "3": {
+      "item": "annoying_villagersbychentu:hhongbaoshi"
+    },
+    "4": {
+      "item": "minecraft:diamond_sword"
+    },
+    "5": {
+      "item": "annoying_villagersbychentu:hhongbaoshi"
+    },
+    "6": {
+      "item": "annoying_villagersbychentu:hhongbaoshi"
+    },
+    "7": {
+      "item": "annoying_villagersbychentu:hhongbaoshi"
+    },
+    "8": {
+      "item": "annoying_villagersbychentu:hhongbaoshi"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:hhongzuanshijian",
+    "count": 1
+  }
+}

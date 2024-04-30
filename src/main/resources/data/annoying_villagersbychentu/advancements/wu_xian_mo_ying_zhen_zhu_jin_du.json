@@ -1,0 +1,39 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "annoying_villagersbychentu:fumomoyingzhenzhu"
+    },
+    "title": {
+      "translate": "advancements.wu_xian_mo_ying_zhen_zhu_jin_du.title"
+    },
+    "description": {
+      "translate": "advancements.wu_xian_mo_ying_zhen_zhu_jin_du.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "wu_xian_mo_ying_zhen_zhu_jin_du": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "annoying_villagersbychentu:fumomoyingzhenzhu"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 40
+  }
+}

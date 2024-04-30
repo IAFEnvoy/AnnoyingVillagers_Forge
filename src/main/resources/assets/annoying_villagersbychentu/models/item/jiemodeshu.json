@@ -1,0 +1,7 @@
+{
+  "parent": "annoying_villagersbychentu:custom/shu",
+  "textures": {
+    "2": "annoying_villagersbychentu:blocks/shu",
+    "particle": "annoying_villagersbychentu:items/jiemodeshu"
+  }
+}

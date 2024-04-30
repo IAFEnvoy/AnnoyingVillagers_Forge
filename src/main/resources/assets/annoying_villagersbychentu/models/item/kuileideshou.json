@@ -1,0 +1,7 @@
+{
+  "parent": "annoying_villagersbychentu:custom/golems_-_converted",
+  "textures": {
+    "6": "annoying_villagersbychentu:blocks/firegolem",
+    "particle": "annoying_villagersbychentu:items/firegolem"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "annoying_villagersbychentu:block/anyingheiyaoshizhuzi"
+    },
+    "facing=east": {
+      "model": "annoying_villagersbychentu:block/anyingheiyaoshizhuzi",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "annoying_villagersbychentu:block/anyingheiyaoshizhuzi",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "annoying_villagersbychentu:block/anyingheiyaoshizhuzi",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "annoying_villagersbychentu:block/anyingheiyaoshizhuzi",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "annoying_villagersbychentu:block/anyingheiyaoshizhuzi",
+      "x": 90
+    }
+  }
+}

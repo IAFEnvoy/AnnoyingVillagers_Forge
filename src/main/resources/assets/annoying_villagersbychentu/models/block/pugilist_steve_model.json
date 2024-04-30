@@ -1,0 +1,8 @@
+{
+  "parent": "annoying_villagersbychentu:custom/pugilist_steve",
+  "textures": {
+    "all": "annoying_villagersbychentu:blocks/pugilist_steve",
+    "particle": "annoying_villagersbychentu:blocks/pugilist_steve",
+    "0": "annoying_villagersbychentu:blocks/pugilist_steve"
+  }
+}

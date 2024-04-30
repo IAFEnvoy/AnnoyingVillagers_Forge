@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "item": "annoying_villagersbychentu:cchunduzuanshi"
+    },
+    "1": {
+      "item": "minecraft:diamond_helmet"
+    },
+    "2": {
+      "item": "minecraft:diamond_sword"
+    },
+    "3": {
+      "item": "annoying_villagersbychentu:zzibaoshi"
+    },
+    "4": {
+      "item": "minecraft:diamond_chestplate"
+    },
+    "5": {
+      "item": "annoying_villagersbychentu:aahjd"
+    },
+    "7": {
+      "item": "minecraft:leather_boots"
+    },
+    "8": {
+      "item": "annoying_villagersbychentu:lan_cun_qi_jian"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:zhaohuansteve",
+    "count": 1
+  }
+}

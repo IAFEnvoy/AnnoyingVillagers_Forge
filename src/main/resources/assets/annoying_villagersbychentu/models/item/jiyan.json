@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "annoying_villagersbychentu:items/bedrock",
+    "up": "annoying_villagersbychentu:items/bedrock",
+    "north": "annoying_villagersbychentu:items/bedrock",
+    "east": "annoying_villagersbychentu:items/bedrock",
+    "south": "annoying_villagersbychentu:items/bedrock",
+    "west": "annoying_villagersbychentu:items/bedrock",
+    "particle": "annoying_villagersbychentu:items/bedrock"
+  }
+}

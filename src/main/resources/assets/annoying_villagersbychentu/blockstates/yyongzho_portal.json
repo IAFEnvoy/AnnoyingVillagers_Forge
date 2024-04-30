@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "annoying_villagersbychentu:block/yyongzho_portal_ew"
+    },
+    "axis=x": {
+      "model": "annoying_villagersbychentu:block/yyongzho_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "annoying_villagersbychentu:cchunduzuanshi"
+    },
+    "2": {
+      "item": "annoying_villagersbychentu:cchunduzuanshi"
+    },
+    "3": {
+      "item": "annoying_villagersbychentu:cchunduzuanshi"
+    },
+    "5": {
+      "item": "annoying_villagersbychentu:cchunduzuanshi"
+    }
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:cchunzuantao_boots",
+    "count": 1
+  }
+}

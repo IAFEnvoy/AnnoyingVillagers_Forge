@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "addition": {
+    "item": "annoying_villagersbychentu:aahjd"
+  },
+  "result": {
+    "item": "annoying_villagersbychentu:aanhejinliangao"
+  }
+}

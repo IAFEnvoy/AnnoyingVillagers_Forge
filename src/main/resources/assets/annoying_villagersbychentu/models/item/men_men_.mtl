@@ -1,0 +1,20 @@
+newmtl m_fd70830e-1900-d9e2-71b4-b185815d2840
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd annoying_villagersbychentu:blocks/
+Ns 100.0
+d 1.0
+newmtl m_f47e7abf-8dc1-d39b-72ac-bf3ada020741
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd annoying_villagersbychentu:blocks/
+Ns 100.0
+d 1.0
+newmtl none
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ns 100.0
+d 1.0

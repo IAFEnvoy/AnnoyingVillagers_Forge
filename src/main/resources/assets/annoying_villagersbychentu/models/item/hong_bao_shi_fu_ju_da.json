@@ -1,0 +1,7 @@
+{
+  "parent": "annoying_villagersbychentu:custom/hong_bao_shi_fu_juda",
+  "textures": {
+    "1": "annoying_villagersbychentu:blocks/hong_bao_shi_fu_juda",
+    "particle": "annoying_villagersbychentu:items/hong_bao_shi_fu_juda"
+  }
+}

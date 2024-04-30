@@ -1,0 +1,7 @@
+{
+  "parent": "annoying_villagersbychentu:custom/chong_neng_de_zuan_shi_bao_neng_jian_",
+  "textures": {
+    "0": "annoying_villagersbychentu:blocks/chong_neng_de_zuan_shi_bao_neng_jian_",
+    "particle": "annoying_villagersbychentu:items/chong_neng_de_zuan_shi_bao_neng_jian_"
+  }
+}
